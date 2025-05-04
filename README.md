@@ -13,6 +13,8 @@ Beberapa langkah utama yang dilakukan dalam proyek ini meliputi:
 - Pelatihan model machine learning
 - Evaluasi performa model
 
+  link dataset [Kaggle](https://www.kaggle.com/) : https://www.kaggle.com/datasets/rajatkumar30/fake-news
+
 
 ## 🚀 Cara Menjalankan Proyek
 
