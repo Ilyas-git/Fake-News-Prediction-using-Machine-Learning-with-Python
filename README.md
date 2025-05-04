@@ -1,6 +1,6 @@
 # 📰 Fake News Prediction using Machine Learning with Python
 
-Proyek ini bertujuan untuk membangun model machine learning sederhana yang dapat memprediksi apakah suatu berita merupakan berita palsu (fake news) atau bukan. Proyek ini dibuat sebagai bagian dari portofolio pribadi dan ditujukan untuk mengasah kemampuan dalam data preprocessing, analisis, dan penerapan algoritma machine learning dasar di bidang Natural Language Processing (NLP).
+Proyek ini bertujuan untuk membangun model machine learning sederhana yang dapat memprediksi apakah suatu berita merupakan berita palsu (fake news) atau bukan. Proyek ini dibuat sebagai bagian dari portofolio pribadi dan ditujukan untuk mengasah kemampuan dalam data preprocessing, analisis, dan penerapan algoritma machine learning dasar.
 
 ## 📂 Deskripsi
 
@@ -13,13 +13,6 @@ Beberapa langkah utama yang dilakukan dalam proyek ini meliputi:
 - Pelatihan model machine learning
 - Evaluasi performa model
 
-## 📌 Teknologi yang Digunakan
-
-- Python
-- Jupyter Notebook
-- Pandas, NumPy
-- Scikit-learn
-- (Opsional) NLTK atau spaCy untuk preprocessing teks
 
 ## 🚀 Cara Menjalankan Proyek
 
